@@ -1,0 +1,11 @@
+   <script src="frontend/js/jquery-min.js"></script>
+   <script src="frontend/js/popper.min.js"></script>
+   <script src="frontend/js/bootstrap.min.js"></script>
+   <script src="frontend/js/owl.carousel.min.js"></script>
+   <script src="frontend/js/wow.js"></script>
+   <script src="frontend/js/jquery.nav.js"></script>
+   <script src="frontend/js/scrolling-nav.js"></script>
+   <script src="frontend/js/jquery.easing.min.js"></script>
+   <script src="frontend/js/jquery.counterup.min.js"></script>
+   <script src="frontend/js/waypoints.min.js"></script>
+   <script src="frontend/js/main.js"></script>
